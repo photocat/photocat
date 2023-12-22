@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Andrii
-- 👨🏻‍💻 I'm developer from Ukraine
+- 👨🏻‍💻 I'm front-end developer
 - 👀 I’m interested in JS Frameworks
 - 📬 Ping me in telegram @Ph0t0cat
 
